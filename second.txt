@@ -1,1 +1,2 @@
 This is working tree 
+Now this file in stagging area
